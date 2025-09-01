@@ -6,7 +6,7 @@ function Footer () {
       <div className="footer-section">
         <h2>LOCATION & CONTACT</h2>
         <p>Address: 901 N Pitt Str., Suite 170, Alexandria, NY, USA</p>
-        <p>Email: <a href="mailto:wordpressriver@gmail.com">waleedbinmehmoodahmed@gmail.com</a></p>
+        <p>Email: <a href="mailto:wordpressriver@gmail.com">awaisbinmehmoodahmed@gmail.com</a></p>
         <p>Open Hour: Sun - Thu: Open 24/7</p>
         <p>Phone: 03182164523</p>
       </div>
